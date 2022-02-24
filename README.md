@@ -1,2 +1,2 @@
 # MavenProject
-Maven projects folders_ru
+Multimodule project in maven web application
